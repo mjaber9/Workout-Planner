@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">WorkoutPlanner</string>
+    <string name="area">area</string>
+
+    <string-array name="dashboard">
+        <item> Select Your Workout</item>
+        <item> View Your Planner </item>
+    </string-array>
+
+    <string-array name="DaySelector">
+        <item> Sunday </item>
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="DaySelectorDialog">
+        <item> Select a Day </item>
+        <item> Sunday </item>
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="WorkoutList">
+        <item> Cardio</item>
+        <item> Back </item>
+        <item> Chest </item>
+        <item> Biceps </item>
+        <item> Triceps </item>
+        <item> Shoulders </item>
+        <item> Legs </item>
+        <item> Core </item>
+    </string-array>
+
+    <string-array name="CardioExercises">
+        <item> Treadmill </item>
+        <item> Jump Rope </item>
+        <item> Elliptical Machine </item>
+        <item> Exercise Bike </item>
+    </string-array>
+
+    <string-array name="BackExercises">
+        <item> Deadlift </item>
+        <item> Pull Up </item>
+        <item> Lat Pulldown </item>
+        <item> Dumbbell Row </item>
+        <item> Reverse Fly Machine </item>
+    </string-array>
+
+    <string-array name="BicepExercises">
+        <item> Barbell Curl </item>
+        <item> Hammer Curl </item>
+        <item> Bicep Cable Curl </item>
+        <item> EZ-Bar Preacher Curl </item>
+        <item> Dumbbell Curl </item>
+    </string-array>
+
+    <string-array name="ChestExercises">
+        <item> Bench Press </item>
+        <item> Dumbbell Press </item>
+        <item> Chest Press Machine </item>
+        <item> Cable Fly </item>
+        <item> Push Ups </item>
+        <item> Pec Fly Machine </item>
+    </string-array>
+
+    <string-array name="TricepsExercises">
+        <item> Rope Tricep Pushdown </item>
+        <item> Tricep Dips </item>
+        <item> Dumbbell Tricep Extension </item>
+        <item> Skullcrushers </item>
+        <item> Overhead Tricep Extension </item>
+    </string-array>
+
+    <string-array name="ShoulderExercises">
+        <item> Shoulder Press </item>
+        <item> Front Raise </item>
+        <item> Lateral Raise </item>
+        <item> Shrugs </item>
+        <item> Cable Crossover</item>
+    </string-array>
+
+    <string-array name="LegExercises">
+        <item> Squats </item>
+        <item> Leg Press </item>
+        <item> Lunges </item>
+        <item> Hamstring Curl </item>
+        <item> Calf Raise </item>
+    </string-array>
+
+    <string-array name="CoreExercises">
+        <item> Sit Ups </item>
+        <item> Planks </item>
+        <item> Russian Twist </item>
+        <item> Leg Raise </item>
+        <item> Side Bend </item>
+    </string-array>
+</resources>

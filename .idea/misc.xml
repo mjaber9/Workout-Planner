@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout-v26/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_back_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_biceps_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_cardio_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_chest_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_core_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_dashboard.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_day_selector.xml" value="0.2" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_day_selector_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_legs_exercises.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_monday_workout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_shoulders_exercises.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_sunday_cardio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_sunday_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_sunday_workout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_triceps_exercises.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_week.xml" value="0.2" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_week_workout.xml" value="0.1" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_weekly_planner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_workout_list.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_workout_selector.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/activity_workoutlist_layout.xml" value="0.2" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/cardio_dialog_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/cardio_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/choose_next_dialog.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/dashboard_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/exercise_dialog_layout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/sunday_treadmill_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/treadmill.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/treadmill_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mjabe/Downloads/Operating systems/Android Studio/WorkoutPlanner/app/src/main/res/layout/treadmill_dialog_layout.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
